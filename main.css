@@ -1,0 +1,139 @@
+.zj{
+    background-color: #E0E0E0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+.gd{
+    width: 100%;
+    background-color: #CCCCCC;
+   
+    background-repeat: repeat-x;
+    margin-bottom: 20px;
+    height: 15px;
+    border-bottom: 1px dashed #DEE1E2;
+    font-size: 10px !important;
+}
+.container{
+position: relative;
+    width: 95%;
+    max-width: 1170px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-top: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.separator{
+    clear: both;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+.container .four.columns{
+    width:100%;
+    background-color: #FFFFFF;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.notice{
+    width: 95%;
+    border: 2px solid #d5d5d5;
+    overflow: hidden;
+}
+.notice .tab-hd {
+    background-color: #FFFFFF;
+    border-bottom: 2px solid #0049ba;
+    color: #404040;
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+.notice .tab-hd ul {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.notice .tab-hd li.on {
+    border-style: solid;
+    border-bottom: none;
+    background-color: #0049ba;
+    font-weight: bold;
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+}
+.notice .tab-hd li {
+    float: left;
+    height: 46px;
+    line-height: 46px;
+    width: 33.333%;
+    cursor: pointer;
+}
+.notice .tab-hd li.on a {
+    color: #fff;
+}
+.notice .tab-hd li a {
+    display: block;
+    width: 100%;
+    max-width: 376px;
+    font-size: 20px;
+    font-family: Microsoft Yahei;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+.notice .tab-bd {
+    border-top: 1px solid #e8e8e8;
+    padding: 5px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+.notice .tab-bd li {
+    line-height: 40px;
+    padding: 0 10px 0 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border-bottom: 1px dashed #7E7878;
+}
+#new {
+    padding-right: 6px;
+}
+.notice .tab-bd span {
+    float: right;
+    font-size: 12px;
+    font-family: Microsoft Yahei;
+}
+.notice .tab-bd li a {
+    font-size: 18px;
+    font-family: Microsoft Yahei;
+}
+#more {
+    font-size: 18px;
+    font-family: Microsoft Yahei;
+    padding: 0 10px 0 10px;
+    line-height: 40px;
+}
+.gd2 {
+    width: 100%;
+    background-color: #CCCCCC;
+    background-image: url(../images/di.png);
+    background-repeat: repeat-x;
+    margin-top: 20px;
+    height: 15px;
+    border-bottom: 1px dashed #DEE1E2;
+    font-size: 10px !important;
+}
